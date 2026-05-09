@@ -158,5 +158,30 @@ int main() {
         cout << "Reporte del Modulo C generado en results/asignacion_bw.txt" << endl;
     }
 
+    // --- BLOQUE DE VALIDACIÓN DE DATOS ---
+    int totalRegistros = datos.size();
+    int nulosTotalCharges = 0;
+    int churnNo = 0;
+    int maxTenure = -1;
+    int minTenure = 999;
+    double sumaMonthly = 0;
+
+    for (const auto& s : datos) {
+        if (s.totalCharges == 0 && s.tenure == 0) nulosTotalCharges++; 
+        if (!s.churn) churnNo++;
+        if (s.tenure > maxTenure) maxTenure = s.tenure;
+        if (s.tenure < minTenure) minTenure = s.tenure;
+        sumaMonthly += s.monthlyCharges;
+    }
+
+    cout << "\n=== Verificacion de Referencia ===" << endl;
+    cout << "Total registros: " << totalRegistros << " (Ref: 7,043)" << endl;
+    cout << "Nulos TotalCharges: " << nulosTotalCharges << " (Ref: 11)" << endl;
+    cout << "Churn = No: " << churnNo << " (Ref: 5,174)" << endl;
+    cout << "Tenure Max: " << maxTenure << " (Ref: 72)" << endl;
+    cout << "Tenure Min: " << minTenure << " (Ref: 0)" << endl;
+    cout << "Monthly promedio: " << (sumaMonthly / totalRegistros) << " (Ref: 64.76)" << endl;
+    cout << "==================================\n" << endl;
+
     return 0;
 }
