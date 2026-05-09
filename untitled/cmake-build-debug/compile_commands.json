@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/Miguelangel/CLionProjects/untitled/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -fdiagnostics-color=always -o CMakeFiles\\untitled.dir\\src\\main.cpp.obj -c C:\\Users\\Miguelangel\\CLionProjects\\untitled\\src\\main.cpp",
+  "file": "C:/Users/Miguelangel/CLionProjects/untitled/src/main.cpp",
+  "output": "C:/Users/Miguelangel/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Miguelangel/CLionProjects/untitled/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -fdiagnostics-color=always -o CMakeFiles\\untitled.dir\\src\\parser.cpp.obj -c C:\\Users\\Miguelangel\\CLionProjects\\untitled\\src\\parser.cpp",
+  "file": "C:/Users/Miguelangel/CLionProjects/untitled/src/parser.cpp",
+  "output": "C:/Users/Miguelangel/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/src/parser.cpp.obj"
+},
+{
+  "directory": "C:/Users/Miguelangel/CLionProjects/untitled/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -fdiagnostics-color=always -o CMakeFiles\\untitled.dir\\src\\mergesort.cpp.obj -c C:\\Users\\Miguelangel\\CLionProjects\\untitled\\src\\mergesort.cpp",
+  "file": "C:/Users/Miguelangel/CLionProjects/untitled/src/mergesort.cpp",
+  "output": "C:/Users/Miguelangel/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/src/mergesort.cpp.obj"
+},
+{
+  "directory": "C:/Users/Miguelangel/CLionProjects/untitled/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -fdiagnostics-color=always -o CMakeFiles\\untitled.dir\\src\\busqueda.cpp.obj -c C:\\Users\\Miguelangel\\CLionProjects\\untitled\\src\\busqueda.cpp",
+  "file": "C:/Users/Miguelangel/CLionProjects/untitled/src/busqueda.cpp",
+  "output": "C:/Users/Miguelangel/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/src/busqueda.cpp.obj"
+},
+{
+  "directory": "C:/Users/Miguelangel/CLionProjects/untitled/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -fdiagnostics-color=always -o CMakeFiles\\untitled.dir\\src\\grafo.cpp.obj -c C:\\Users\\Miguelangel\\CLionProjects\\untitled\\src\\grafo.cpp",
+  "file": "C:/Users/Miguelangel/CLionProjects/untitled/src/grafo.cpp",
+  "output": "C:/Users/Miguelangel/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/src/grafo.cpp.obj"
+},
+{
+  "directory": "C:/Users/Miguelangel/CLionProjects/untitled/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -fdiagnostics-color=always -o CMakeFiles\\untitled.dir\\src\\mochila.cpp.obj -c C:\\Users\\Miguelangel\\CLionProjects\\untitled\\src\\mochila.cpp",
+  "file": "C:/Users/Miguelangel/CLionProjects/untitled/src/mochila.cpp",
+  "output": "C:/Users/Miguelangel/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/src/mochila.cpp.obj"
+}
+]

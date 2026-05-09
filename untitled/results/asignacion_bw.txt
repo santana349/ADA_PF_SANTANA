@@ -1,0 +1,10 @@
+--- REPORTE ASIGNACION ANCHO DE BANDA ---
+Capacidad Total (W): 500
+Beneficio Maximo: 690.95 USD
+Clientes Seleccionados:
+ID: 6919-ELBGL | Tenure: 72 | Mensualidad: 114.95 USD
+ID: 8207-DMRVL | Tenure: 72 | Mensualidad: 114.55 USD
+ID: 1352-HNSAW | Tenure: 72 | Mensualidad: 115.6 USD
+ID: 8606-CIQUL | Tenure: 72 | Mensualidad: 115.75 USD
+ID: 1480-BKXGA | Tenure: 72 | Mensualidad: 116.05 USD
+ID: 4376-KFVRS | Tenure: 72 | Mensualidad: 114.05 USD
